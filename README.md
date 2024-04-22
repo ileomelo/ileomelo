@@ -6,9 +6,9 @@ Web Developer
 
 I've been learning to code for 1 year, after switching carreers. I started with HTML, but have really found a passion for backend development...
 
-* 🌍  I'm based in São Paulo
+* 🌍  I'm based in São Paulo, SP
 * ✉️  You can contact me at [leo.a.s.melo@gmail.com](mailto:leo.a.s.melo@gmail.com)
-* 🧠  I'm learning NuxtJS, VueJS and Supabase
+* 🧠  I'm learning React, NestJS and TypeScript
 * ⚡  I am interested in the field of artificial intelligence, and I am interested in learning TensorFlow, NumPy, and Pandas.
 
 ### Skills
