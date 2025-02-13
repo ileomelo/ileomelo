@@ -1,21 +1,24 @@
-Hi 👋 My name is Leonardo Melo
+Olá 👋 Eu sou o Leonardo
 =====================================================================================================================================
 
-Web Developer
+Desenvolvedor Back-End | Transição para Análise de Dados
 -------------
+Com 3 anos de experiência em desenvolvimento web, atuei na criação de soluções escaláveis com Python, Django e bancos de dados relacionais. Atualmente, estou em transição de carreira para Análise de Dados, integrando conhecimentos em SQL, Python e estatística para transformar dados em insights estratégicos.
 
-I've been learning to code for 1 year, after switching carreers. I started with HTML, but have really found a passion for backend development...
-
-* 🌍  I'm based in São Paulo, SP
-* ✉️  You can contact me at [leo.a.s.melo@gmail.com](mailto:leo.a.s.melo@gmail.com)
-* 🧠  I'm learning React, NestJS and TypeScript
-* ⚡  I am interested in the field of artificial intelligence, and I am interested in learning TensorFlow, NumPy, and Pandas.
+* 🌍  Estou em São Paulo, SP
+* ✉️  Você pode me contatar em [leo.a.s.melo@gmail.com](mailto:leo.a.s.melo@gmail.com)
+* 🧠  Estou aprendendo Análise de Dados
+* 📚  Cursos: Google Data Analytics(Coursera) - Em progresso
+* ⚡  Tenho interesse na área de inteligência artificial e Data Science
 
 ### Skills
 
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+
 </p>
 
 
