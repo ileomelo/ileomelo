@@ -1,7 +1,7 @@
 Olá 👋 Eu sou o Leonardo
 =====================================================================================================================================
 
-Desenvolvedor Back-End | Transição para Análise de Dados
+Desenvolvedor Python | Transição para Análise de Dados
 -------------
 Com 3 anos de experiência em desenvolvimento web, atuei na criação de soluções escaláveis com Python, Django e bancos de dados relacionais. Atualmente, estou em transição de carreira para Análise de Dados, integrando conhecimentos em SQL, Python e estatística para transformar dados em insights estratégicos.
 
