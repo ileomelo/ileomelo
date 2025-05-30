@@ -3,12 +3,12 @@ Olá 👋 Eu sou o Leonardo
 
 Desenvolvedor Python | Transição para Análise de Dados
 -------------
-Com 3 anos de experiência em desenvolvimento web, atuei na criação de soluções escaláveis com Python, Django e bancos de dados relacionais. Atualmente, estou em transição de carreira para Análise de Dados, integrando conhecimentos em SQL, Python e estatística para transformar dados em insights estratégicos.
+Com 3 anos de experiência em desenvolvimento web, atuei na criação de soluções escaláveis com Python, Django e bancos de dados relacionais. Agora estou voltando minhas habilidades para a área de Análise de Dados, integrando conhecimentos em SQL, Python e estatística para transformar dados em insights estratégicos.
 
 * 🌍  Estou em São Paulo, SP
 * ✉️  Você pode me contatar em [leo.a.s.melo@gmail.com](mailto:leo.a.s.melo@gmail.com)
-* 🧠  Estou aprendendo Análise de Dados
-* 📚  Cursos: Google Data Analytics(Coursera) - Em progresso
+* 🧠  Estou me aprofundando em Análise de Dados.
+* 📚  Certificado: [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/QBPL7VZZ9NJW)
 * ⚡  Tenho interesse na área de inteligência artificial e Data Science
 
 ### Skills
